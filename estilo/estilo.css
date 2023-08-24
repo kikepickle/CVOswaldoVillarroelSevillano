@@ -1,0 +1,33 @@
+h1{
+color: aquamarine;
+}
+img{
+    border: 30px;
+    padding: 20px;
+    background-color: blueviolet;
+    border-radius: 0px;
+    width: 20%;
+    height: auto;
+}
+
+p{
+
+}
+
+#titulo{
+    padding: 30px;
+    font-size: larger;
+    background-color: aquamarine;
+    color: black;
+}
+
+.subtitulo{
+    padding: 30px;
+
+}
+
+
+.claseletras{
+    font-family: Arial, Helvetica, sans-serif;
+    color: cadetblue;
+}
