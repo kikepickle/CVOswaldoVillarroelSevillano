@@ -1,16 +1,22 @@
 h1{
-color: aquamarine;
+color: #943C13;
+}
+h4{
+    font-size: large;
 }
 img{
-    border: 30px;
-    padding: 20px;
-    background-color: blueviolet;
+    border: 0px;
+    padding: 0px;
+    background-color: none;
+
     border-radius: 0px;
     width: 20%;
     height: auto;
 }
 
 p{
+    font-style: normal;
+    font-family: Inconsolata;
 
 }
 
@@ -31,3 +37,8 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     color: cadetblue;
 }
+
+.menu{
+    font-style:italic;
+}
+
