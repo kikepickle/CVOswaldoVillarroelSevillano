@@ -21,10 +21,8 @@ p{
 }
 
 #titulo{
-    padding: 30px;
-    font-size: larger;
-    background-color: aquamarine;
-    color: black;
+    font-size: x-large;
+    background-color: none;
 }
 
 .subtitulo{
@@ -42,7 +40,7 @@ p{
     font-style:italic;
 }
 
-<<<<<<< Updated upstream
+
 .enlacesrefecencias{
     display: none;
 }
