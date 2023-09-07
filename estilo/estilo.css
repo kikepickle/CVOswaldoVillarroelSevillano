@@ -1,9 +1,13 @@
 h1{
-color: #943C13;
+    color: #943C13;
 }
-h4{
+h2{
     font-size: large;
 }
+h3{
+    font-size: large;
+}
+
 img{
     border: 0px;
     padding: 0px;
@@ -26,7 +30,7 @@ p{
 }
 
 .subtitulo{
-    padding: 30px;
+    padding: 0;
 
 }
 
@@ -47,4 +51,16 @@ p{
 
 .f{
     font-weight: bold;
+}
+
+nav{
+    display: flex;
+}
+.encabezado{
+    display: flex;
+    background-color: #33218B;
+
+}
+.menufont{
+    color: #7585BA;
 }
